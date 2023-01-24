@@ -31,4 +31,5 @@
 
 ## Слияние веток и разрешение конфликтов
 
-## Удаление веток
+## Удаление веток.chtobu tdali vetky neobxodimo vvesti komandy *git branch -d <nazvanie vetki>*
+
